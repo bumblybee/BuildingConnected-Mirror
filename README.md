@@ -1,1 +1,1 @@
-Recreation of BuildingConnect website for design practice.
+Recreation of BuildingConnected website for design practice.
